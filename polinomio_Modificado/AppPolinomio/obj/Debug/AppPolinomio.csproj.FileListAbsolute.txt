@@ -1,0 +1,30 @@
+c:\users\unsaac30x\documents\visual studio 2012\Projects\AppPolinomio\AppPolinomio\bin\Debug\AppPolinomio.exe.config
+c:\users\unsaac30x\documents\visual studio 2012\Projects\AppPolinomio\AppPolinomio\obj\Debug\AppPolinomio.csprojResolveAssemblyReference.cache
+c:\users\unsaac30x\documents\visual studio 2012\Projects\AppPolinomio\AppPolinomio\bin\Debug\AppPolinomio.exe
+c:\users\unsaac30x\documents\visual studio 2012\Projects\AppPolinomio\AppPolinomio\bin\Debug\AppPolinomio.pdb
+c:\users\unsaac30x\documents\visual studio 2012\Projects\AppPolinomio\AppPolinomio\obj\Debug\AppPolinomio.exe
+c:\users\unsaac30x\documents\visual studio 2012\Projects\AppPolinomio\AppPolinomio\obj\Debug\AppPolinomio.pdb
+F:\polinomio 2\AppPolinomio\bin\Debug\AppPolinomio.exe.config
+F:\polinomio 2\AppPolinomio\obj\Debug\AppPolinomio.exe
+F:\polinomio 2\AppPolinomio\obj\Debug\AppPolinomio.pdb
+F:\polinomio 2\AppPolinomio\bin\Debug\AppPolinomio.exe
+F:\polinomio 2\AppPolinomio\bin\Debug\AppPolinomio.pdb
+F:\polinomio 2\AppPolinomio\obj\Debug\AppPolinomio.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA-W7\Desktop\Nueva carpeta\polinomio 2\AppPolinomio\bin\Debug\AppPolinomio.exe.config
+C:\Users\TOSHIBA-W7\Desktop\Nueva carpeta\polinomio 2\AppPolinomio\obj\Debug\AppPolinomio.exe
+C:\Users\TOSHIBA-W7\Desktop\Nueva carpeta\polinomio 2\AppPolinomio\obj\Debug\AppPolinomio.pdb
+C:\Users\TOSHIBA-W7\Desktop\Nueva carpeta\polinomio 2\AppPolinomio\bin\Debug\AppPolinomio.exe
+C:\Users\TOSHIBA-W7\Desktop\Nueva carpeta\polinomio 2\AppPolinomio\bin\Debug\AppPolinomio.pdb
+C:\Users\TOSHIBA-W7\Desktop\Nueva carpeta\polinomio 2\AppPolinomio\obj\Debug\AppPolinomio.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA-W7\Desktop\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\bin\Debug\AppPolinomio.exe.config
+C:\Users\TOSHIBA-W7\Desktop\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\obj\Debug\AppPolinomio.exe
+C:\Users\TOSHIBA-W7\Desktop\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\obj\Debug\AppPolinomio.pdb
+C:\Users\TOSHIBA-W7\Desktop\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\bin\Debug\AppPolinomio.exe
+C:\Users\TOSHIBA-W7\Desktop\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\bin\Debug\AppPolinomio.pdb
+C:\Users\TOSHIBA-W7\Desktop\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\obj\Debug\AppPolinomio.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA-W7\Desktop\td antiguo\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\bin\Debug\AppPolinomio.exe.config
+C:\Users\TOSHIBA-W7\Desktop\td antiguo\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\obj\Debug\AppPolinomio.exe
+C:\Users\TOSHIBA-W7\Desktop\td antiguo\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\obj\Debug\AppPolinomio.pdb
+C:\Users\TOSHIBA-W7\Desktop\td antiguo\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\bin\Debug\AppPolinomio.exe
+C:\Users\TOSHIBA-W7\Desktop\td antiguo\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\bin\Debug\AppPolinomio.pdb
+C:\Users\TOSHIBA-W7\Desktop\td antiguo\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\obj\Debug\AppPolinomio.csprojResolveAssemblyReference.cache
