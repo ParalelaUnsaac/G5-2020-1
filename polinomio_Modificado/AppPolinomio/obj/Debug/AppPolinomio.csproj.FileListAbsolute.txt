@@ -28,3 +28,9 @@ C:\Users\TOSHIBA-W7\Desktop\td antiguo\(ALGORITMICA II)-Laboratorio II\Nueva car
 C:\Users\TOSHIBA-W7\Desktop\td antiguo\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\bin\Debug\AppPolinomio.exe
 C:\Users\TOSHIBA-W7\Desktop\td antiguo\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\bin\Debug\AppPolinomio.pdb
 C:\Users\TOSHIBA-W7\Desktop\td antiguo\(ALGORITMICA II)-Laboratorio II\Nueva carpeta\polinomio_tarea\AppPolinomio\obj\Debug\AppPolinomio.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\git\G5-2020-1\polinomio_Modificado\AppPolinomio\bin\Debug\AppPolinomio.exe.config
+C:\Users\User\Desktop\git\G5-2020-1\polinomio_Modificado\AppPolinomio\bin\Debug\AppPolinomio.exe
+C:\Users\User\Desktop\git\G5-2020-1\polinomio_Modificado\AppPolinomio\bin\Debug\AppPolinomio.pdb
+C:\Users\User\Desktop\git\G5-2020-1\polinomio_Modificado\AppPolinomio\obj\Debug\AppPolinomio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\git\G5-2020-1\polinomio_Modificado\AppPolinomio\obj\Debug\AppPolinomio.exe
+C:\Users\User\Desktop\git\G5-2020-1\polinomio_Modificado\AppPolinomio\obj\Debug\AppPolinomio.pdb

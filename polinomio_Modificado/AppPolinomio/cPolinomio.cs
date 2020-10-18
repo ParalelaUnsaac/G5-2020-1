@@ -11,27 +11,33 @@ using System.Threading.Tasks;
 
 namespace AppPolinomio
 {
+    //clse polinomio
     class cPolinomio
     {
+        //   atributo privado 
         #region* ATRIBUTOS *
         private float[] aCoeficiente;
 
         #endregion**** FIN DE ATRIBUTOS ***
         #region*** CONSTRUCTORES ****
+        //constructores
 
         public cPolinomio()
         {
             aCoeficiente = new float[100];
         }
+        //creamos un arreglo para un grado
         public  cPolinomio( int pGrado )
         {
             aCoeficiente = new float[pGrado + 1];
             
         }
+        //construimos un polinomio
         public static cPolinomio Crear()
         {
             return new cPolinomio();
         }
+        //construccion del grado
         public static cPolinomio Crear(int pGrado)
         {
             return new cPolinomio(pGrado);
@@ -39,6 +45,7 @@ namespace AppPolinomio
         }
         #endregion** FIN DE CONSTRUCTORES **
         #region** PROPIEDADES **
+        //propiedades
         public int Grado
         {
             get { return aCoeficiente.Length - 1; }
@@ -58,13 +65,16 @@ namespace AppPolinomio
  
         }
         #endregion//********************** FIN DE PROPIEDADES ****************************
-    
+    // METODOS
         #region************************ METODOS *************************************
+            //metodo mostrar para ver el resultado de la multiplicacion de dos polinomios
         public void Mostrar()
         {
+            //creamos un entero   g que sera grado
             int g = Grado;
             Console.WriteLine("EL RESULTADO ES :");
             string Signo = "";
+            //inicializamos un bucle  for 
             for (int k = g; k >= 0; k--)
             {
                 Signo = aCoeficiente[k] > 0 ? "+" : "-";
@@ -105,7 +115,7 @@ namespace AppPolinomio
             p.Agregar(p2);
             return p ;
         }
-       
+       // metodo para multiplicar
         public static cPolinomio operator *(cPolinomio p1, cPolinomio p2)
         {
             cPolinomio p = new cPolinomio (p1.Grado+p2.Grado);
