@@ -1,2 +1,3 @@
 7 Oct - en clase hicimos los proyectos y sus GitHub
 14Oct - no hay contribuciones en el proyecto. no hay problema ni documentacion
+21 de octubre modificamos nuestr proyecto y trabajamos los 4 compañeros   y trate de eliminar el archivo multiplicacion de polinomios  por que no podiamos paralelizary cambiamos por el  de gauss , tratamos de gravarlo pero no se pudo por el meet 
