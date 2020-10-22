@@ -1,0 +1,2 @@
+cambiamos el archivo de multiplicacion de polinomios por el de gauss por que no podiamos paralelizar la multiplicacion de polinomios
+en el cual trabajamos los 4 compañeros del grupo
