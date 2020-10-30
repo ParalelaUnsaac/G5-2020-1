@@ -1,3 +1,9 @@
 7 Oct - en clase hicimos los proyectos y sus GitHub
 14Oct - no hay contribuciones en el proyecto. no hay problema ni documentacion
+21Oct - no presentaron
+28Oct - tienen comparaciones. esta en visual (x), no hay modelo. cambiaron de proyecto. recordaron más OpenMP , solo private y for (grafico). falta impresion amigable.
+29Oct - 4 participantes en GitHub. Solo Champi commitea. Documentacion tiene flujo de Gauss-Jordan. El Readme es una presentacion/sumarizacion de contenidos del repositorio. proyecto en Colab (+) , tiempos ejecucion.
+
+
+---
 21 de octubre modificamos nuestr proyecto y trabajamos los 4 compañeros   y trate de eliminar el archivo multiplicacion de polinomios  por que no podiamos paralelizary cambiamos por el  de gauss , tratamos de gravarlo pero no se pudo por el meet 
