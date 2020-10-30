@@ -19,7 +19,7 @@ No son métodos interativos dan las soluciones de forma directa sin necesidad de
 
 ###### Pivote: 
 en una matriz el pivote es el primer elemento de una fila a partir de la izquierda que es el destino de cero cuando ocurre que el elemento pivote es cero, antes de normalizar cada renglón , se realiza el pivote parcial en el cual se determina el coeficiente mayor disponible de la columna debajo del pivote , se pude hacer un intercambio entre renglones de este modo el elemento se convertirá en el pivote .
-###### Escalamiento:
+**###### Escalamiento:**
 sirve para estandarizar el tamaño determinante , se utiliza para minimizar errores de redondeo cuando en un sistema algunas ecuaciones tienen coeficientes mucho mayores que otros . se ralizan mediante la multiplicación de cada renglón por una constante distinta de cero.
 
 # CODIGO, C++ EN COLAB.
