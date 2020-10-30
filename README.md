@@ -23,8 +23,9 @@ en una matriz el pivote es el primer elemento de una fila a partir de la izquier
 sirve para estandarizar el tamaño determinante , se utiliza para minimizar errores de redondeo cuando en un sistema algunas ecuaciones tienen coeficientes mucho mayores que otros . se ralizan mediante la multiplicación de cada renglón por una constante distinta de cero.
 
 # CODIGO, C++ EN COLAB.
-**1.- haga clic en Tiempo de ejecución > Cambiar > GPU Acelerador de hardware.
-2.- Actualice la instancia en la nube de CUDA on Server.**
+**1.- haga clic en Tiempo de ejecución > Cambiar > GPU Acelerador de hardware.**
+
+**2.- Actualice la instancia en la nube de CUDA on Server.**
 
 ```
 !apt-get --purge remove cuda nvidia* libnvidia-*
@@ -33,4 +34,33 @@ sirve para estandarizar el tamaño determinante , se utiliza para minimizar erro
 !apt autoremove
 !apt-get update
 ```
-**Instalar CUDA Versión 9**
+**3.- Instalar CUDA Versión 9**
+```
+!wget https://developer.nvidia.com/compute/cuda/9.2/Prod/local_installers/cuda-repo-ubuntu1604-9-2-local_9.2.88-1_amd64 -O cuda-repo-ubuntu1604-9-2-local_9.2.88-1_amd64.deb
+!dpkg -i cuda-repo-ubuntu1604-9-2-local_9.2.88-1_amd64.deb
+!apt-key add /var/cuda-repo-9-2-local/7fa2af80.pub
+!apt-get update
+!apt-get install cuda-9.2
+```
+**4.- Marque la Versión de CUDA por: ejecutando el comando abajo para obtener la siguiente salida:**
+```
+!nvcc --version
+```
+**5.- Salida**
+```
+nvcc: NVIDIA (R) Cuda compiler driver Copyright (c) 2005-2018 NVIDIA Corporation
+```
+**6.- Ejecutar el comando dado para instalar una pequeña extensión para ejecutar nvcc desde celdas de Notebook.**
+```
+!pip install git+git://github.com/andreinechaev/nvcc4jupyter.git
+```
+**7.- Cargar la extensión usando este código**
+```
+%load_ext nvcc_plugin
+```
+**8.- En la primera linea de tu codigo pegar este pequeño fracmento de codigo.**
+```
+%%cu
+```
+
+
